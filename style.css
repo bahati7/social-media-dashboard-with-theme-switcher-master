@@ -53,8 +53,8 @@ body{
     display: flex;
     align-items: start;
     justify-content: space-between;
-    padding: 2rem 10%;
-    height: 40vh;
+    padding: 1.5rem 10%;
+    height: 35vh;
     background-color: var(--bgColorTop);
 }
 .title h2{
@@ -90,7 +90,7 @@ body{
     justify-content: space-between;    
     flex-wrap: wrap;
     gap: 1rem;
-    padding: 2rem 10%;
+    padding: 0 10%;
     margin-top: -10%;
 }
 .social_card{
